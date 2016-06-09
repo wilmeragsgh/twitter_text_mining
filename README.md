@@ -1,87 +1,40 @@
-# Placeholder for vdtic-6d project
+# Algunas visualizaciones sobre los tweets previos al 6-Diciembre
 
-One Paragraph of project description goes here
+Este repositorio alberga el codigo relativo al articulo: 
 
-## Getting Started
+### Twitter como fuente de datos para la academia. Caso de estudio: Minería de Texto.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Primeros pasos:
 
-### Prerequisities
+Para poder obtener las graficas vistas en el articulo es necesario:
 
-What things you need to install the software and how to install them
+* Descargar el repositorio de forma local, digamos  */home/vdtic-6d*
+* Abrir o Ejecutar */home/vdtic-6d/init.r*
+* Abrir */home/vdtic-6d/src/generacion_de_graficos.r*
 
-```
-Give examples
-```
+## Hecho con:
 
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Stay what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* Dropwizard - Bla bla bla
-* Maven - Maybe
+* R version 3.3.0 (2016-05-03) -- "Supposedly Educational"
+* RStudio Version 0.99.892 – © 2009-2016 RStudio, Inc.
 * README-template.md ver mas en [PurpleBooth](https://github.com/PurpleBooth)
+* [Project Template](https://projecttemplate.net)
 
-## Contributing
+## Contribuciones
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Por favor lee [CONTRIBUCIONES.md](CONTRIBUTING.md) para detalles en la extension del presente repositorio.
 
-## Versioning
+## Autor
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* **Wilmer Gonzalez** - *Trabajo inicial* -
 
-## Authors
+Sé el primero en contribuir y estar en: [Colaboradores](https://github.com/your/project/COLABORADORES.md)
 
-* **Wilmer Gonzalez** - *Initial work* -
+## Licencia
 
-Se el primero en contribuir y estar en: [contributors](https://github.com/your/project/contributors) who participated in this project.
+El contenido de este projecto esta sujeto a: [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/),
+el código esta asociado a los términos descritos en [LICENSE.md](LICENSE.md).
 
-## License
+## Agradecimientos
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Toda persona cuyo codigo fue usado y por olvido no fué referenciado
+* Dirección de Tecnología de Información y Comunicaciones de la Universidad Central de Venezuela, por el espacio y ayuda brindada para la publicación del texto asociado al artículo, especialmente a Lic. Mariangela Álvarez.
